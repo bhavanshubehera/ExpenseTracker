@@ -14,7 +14,7 @@ To get started with the ADLabProject, follow these steps:
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/bhavanshubehera/ADLabProject.git
+    git clone https://github.com/bhavanshubehera/ExpenseTracker.git
     ```
 
 2. **Navigate to the project directory**
